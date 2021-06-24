@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samuel Tober</h1>
 <h3 align="center">A passionate data analyst working towards a Msc. in computer science</h3>
 
-- 🔭 I’m currently working on **Time Series Modeling**
+- 🔭 I’m currently working on **Time Series Modeling with FB Prophet** @VOI Technology
 
 - 📝 I regularly write articles on [https://samueltober.github.io/samuel-tober/](https://samueltober.github.io/samuel-tober/)
 

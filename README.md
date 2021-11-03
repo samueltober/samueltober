@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samuel Tober</h1>
-<h3 align="center">A passionate data scientist working towards a Msc. in computer science/data science</h3>
+<h3 align="center">A passionate data scientist working towards a Msc. in computer science/data science graduating summer 2022</h3>
 
-- 🔭 I’m currently working on **Time Series Modeling with FB Prophet** @VOI Technology
+- 🔭 I’m currently working on **Demand Forecasting** using ML and **Automations using Prefect** @VOI Technology
 
 - 📫 How to reach me **samueltober@gmail.com**
 

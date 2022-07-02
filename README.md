@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samuel Tober</h1>
-<h3 align="center">A passionate data scientist working towards a Msc. in computer science/data science graduating summer 2022</h3>
-
-- 🔭 I’m currently working on **Demand Forecasting** using ML and **Automations using Prefect** @VOI Technology
+<h3 align="center">Msc. in computer science currently working at micro mobility leader VOI technology</h3>
 
 - 📫 How to reach me **samueltober@gmail.com**
 
